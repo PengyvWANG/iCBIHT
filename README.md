@@ -1,6 +1,8 @@
 # iCBIHT
 Implementation of journal paper entitled '1-Bit direction of arrival estimation via improved complex-valued binary iterative hard thresholding' for DOA estimation [Digital Signal Processing]
 
+**Notation:** Codes for comparison methods are not available. Please remove them from `main.m` manually.
+
 ## Citation
 ```
 @article{WANG2022103265,
